@@ -1,0 +1,31 @@
+_repo: The-history-of-the-Jews-From-the-war-with-Rome-to-the-present-time_69593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, H. C. (Henry Cadwallader)
+    alias: Adams, Henry Cadwallader
+    birthdate: 1817
+    deathdate: 1899
+    gutenberg_agent_id: '36322'
+    url: http://www.gutenberg.org/2009/agents/36322
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Cadwallader_Adams
+description: ''
+gutenberg_issued: '2022-12-20'
+identifiers:
+  gutenberg: '69593'
+language: en
+pgterms:marc904: https://archive.org/details/historyofjewsfro00adamuoft
+pgterms:marc905: 20190216100821adams
+pgterms:marc906: '1887'
+pgterms:marc907: GB
+production_note: Richard Hulse, Bob Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: The Religious Tract Society,1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The history of the Jews: From the war with Rome to the present time'
+url: http://www.gutenberg.org/ebooks/69593
